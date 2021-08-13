@@ -5,7 +5,7 @@ Currrently only works for Aether data center due to how the API works
 (if you want other data centers edit line 153 in the python script, Its part of 'def api_grab' and tells the script which data center to search)
 
 Checks Universalis API against all sellable items that can be bought with either Tomstones of Poetics or Grand Company seals. 
-Returns a top 15 list of the best value items to buy that are currently up on the API lists the website adress to copy/paste into browser.
+Returns a top 15 list of the best value items to buy that are currently up on the API than lists the website adress to copy/paste into browser.
 
 Just because something is at the top of the list doesn't mean it will sell for that. Check the volume traded and history to make sure the item actually sells.
 Ignored all Market restricted items and untradeables.
