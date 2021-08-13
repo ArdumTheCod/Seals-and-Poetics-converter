@@ -1,7 +1,10 @@
 # Seals-and-Poetics-converter v2
 Scrapes prices for items and shows the best things to spend GC seals and Tombstones of Poetics  on in FFXIV.
+
 -Removed Close App button
+
 -now calculates decimal point
+
 -reassigned Materia to poetics where it belongs
 
 
