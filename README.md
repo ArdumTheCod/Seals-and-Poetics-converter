@@ -1,6 +1,9 @@
 # Seals-and-Poetics-converter
 Scrapes prices for items and shows the best things to spend GC seals and Tombstones of Poetics  on in FFXIV.
+
 ****Close app button no long works in the exe for in the .rar i messed up its function somehow**
+
+
 Currrently only works for Aether data center due to how the API works 
 (if you want other data centers edit line 153 in the python script, Its part of 'def api_grab' and tells the script which data center to search)
 
